@@ -137,6 +137,13 @@ def Question5():
 
 def end_quiz():
     print(f"You got {score} correct answers.")
+    Grade()
+    
+def Grade():
+    if score >= 4:
+        print("You passed Good Job")
+    else:
+        print("You failed please study more")
 
 # Call the functions
 intro()
@@ -145,7 +152,8 @@ sys.exit()
 
 #DONE AND DUSTED
 #WORKING AS HELL
-#must be nice if nattrrack kung ilan yung mali at tama.
+#May score tracker din
+#Working passed or failed tracker
 
 
 
