@@ -29,7 +29,7 @@ def Question1():
             score += 1
             break
         elif answer == 'B':
-            print('DUMB NIGGER, please study more.')
+            print('DUMBASS, please study more.')
             break
         else:
             print("Read the instructions, INVALID!!")
@@ -51,11 +51,11 @@ def Question2():
         answer = input('Answer:').upper()  # Convert input to uppercase to avoid case sensitivity
 
         if answer == 'B':
-            print('Good job! DUMBAS!!')
+            print('Good job! DUMBASS!!')
             score += 1
             break
         elif answer == 'A':
-            print('DUMB NIGGER, please study more.')
+            print('DUMBASS, please study more.')
             break
         else:
             print("bitch INVALID!!")
@@ -76,11 +76,11 @@ def Question3():
         answer = input('Answer:').upper()  # Convert input to uppercase to avoid case sensitivity
 
         if answer == 'A':
-            print('Good job! DUMBAS!!')
+            print('Good job! DUMBASS!!')
             score += 1
             break
         elif answer == 'B':
-            print('DUMB NIGGER, please study more.')
+            print('DUMBASS, please study more.')
             break
         else:
             print("bitch INVALID!!")
@@ -100,11 +100,11 @@ def Question4():
         answer = input('Answer:').upper()  # Convert input to uppercase to avoid case sensitivity
 
         if answer == 'A':
-            print('Good job! DUMBAS!!')
+            print('Good job! DUMBASS!!')
             score += 1
             break
         elif answer == 'B':
-            print('DUMB NIGGER, please study more.')
+            print('DUMBASS, please study more.')
             break
         else:
             print("bitch INVALID!!")
@@ -124,11 +124,11 @@ def Question5():
         answer = input('Answer:').upper()  # Convert input to uppercase to avoid case sensitivity
 
         if answer == 'A':
-            print('Good job! DUMBAS!!')
+            print('Good job! DUMBASS!!')
             score += 1
             break
         elif answer == 'B':
-            print('DUMB NIGGER, please study more.')
+            print('DUMBASS, please study more.')
             break
         else:
             print("bitch INVALID!!")
@@ -144,7 +144,7 @@ Question1()
 sys.exit()
 
 #DONE AND DUSTED
-#WORKING AS HELL NIGGA
+#WORKING AS HELL
 #must be nice if nattrrack kung ilan yung mali at tama.
 
 
